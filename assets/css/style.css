@@ -1,0 +1,22 @@
+body{
+	margin-left: 100px;
+	width: 960px;
+}
+nav{
+	text-align: right;
+	margin-right: 10px;
+}
+h1 {
+    font-size: 24px;
+    background: #4aaaa5;
+    width: 25%;
+    height: 40px;
+    padding-top: 20px;
+    text-align: center;
+    color: white;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+#Main{
+	border-style: solid;
+	border-color: white;
+}
