@@ -11,7 +11,7 @@ header{
     border-bottom-width: medium;
     border-bottom-color: #cccccc;
     background-color: #ffffff;
-    width: 100%;
+    max-width: 1148px;
 }
 h1{
     margin-left: 131px;
@@ -119,4 +119,5 @@ p{
     border-style: solid;
     border-top-width: thick;
     border-top-color: #4aaaa5;
+    max-width: 1148px;
 }
