@@ -1,6 +1,6 @@
 .Container{
-    width: 1350px;
-    height: 660px;
+    width: 1148px;
+    height: 625px;
 }
 body{
     background-image: url("../images/new_year_background.png");
@@ -11,9 +11,10 @@ header{
     border-bottom-width: medium;
     border-bottom-color: #cccccc;
     background-color: #ffffff;
+    width: 100%;
 }
 h1{
-    margin-left: 137px;
+    margin-left: 131px;
     font-family: 'Georgia', Times, Times New Roman, serif;
     float: left;
     padding: 33px;
@@ -26,7 +27,7 @@ nav{
     float: right;
     padding: 30px;
     font-size: 20px;
-    margin-right: 137px;
+    margin-right: 100px;
 
 }
 h3{
@@ -40,12 +41,12 @@ h3{
     border-bottom-width: medium;
     border-bottom-color: #cccccc;
 }
-.Main{
+section.Main{
     font-size: 18px;
     font: Arial;
     line-height: 35px;
-    width: 685px;
-    height: 475px;
+    width: 551px;
+    height: auto;
     padding-top: 40px;
     padding: 30px;
     float: left;
@@ -54,13 +55,13 @@ h3{
     border-color: #dddddd;
     margin-top: 50px;
     margin-bottom: 50px;
-    margin-left: 137px;
+    margin-left: 131px;
     background-color: #ffffff;
 }
 h4{
     font-family: 'Georgia', Times, Times New Roman, serif;
     text-align: center;
-    font-size: 19px;
+    font-size: 21px;
     font-weight: bold;
     padding-bottom: 20px;
     border-style: solid;
@@ -69,16 +70,20 @@ h4{
 }
 .Connect{
     color:#4aaaa5;    
-    width: 200px;
-    height: 150px;
+    width: 228px;
+    height: auto;
+    text-align: center;
     float: right;
     margin-top: 50px;
-    margin-right: 137px;
-    margin-bottom: 42px;
+    margin-right: 100px;
+    /*margin-bottom: 42px;*/
     border-style: solid;
     border-width: thin;
     border-color: #dddddd;
-    padding: 40px;
+    padding-top: 30px;
+    padding-bottom: 45px;
+    padding-left: 20px;
+    padding-right: 20px;
     background-color: #ffffff;
 }
 #picture{
